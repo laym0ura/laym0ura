@@ -1,4 +1,5 @@
- # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="laym0ura"><a class="LI-simple-link" href='https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Curr%C3%ADculo%20Patrick%20Gomes.pdf'>Layra Moura</a></div>
+ # Layra Moura
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/layra-pedroso-a162501a2/)](https://www.linkedin.com/in/layra-pedroso-a162501a2/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=layramouraufruralrj@gmail.com)](layramouraufruralrj@gmail.com) 
 
 ## Sejam todos bem vindos ao meu perfil! 😊
