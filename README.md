@@ -25,7 +25,4 @@
 
 ## O que estou estudando atualmente:
 
-1. Web Scraping com Python
-
-2. Construção de Protótipo com Streamlit
-
+Deep Learning com TensorFlow e Python
