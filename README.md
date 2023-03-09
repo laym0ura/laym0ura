@@ -4,7 +4,7 @@
 
 ## Sejam todos bem vindos ao meu perfil! 😊
 
-* Estudante de Ciência de Dados
+* Estagiária de Ciência de Dados e Geologia
 * Geologia - UFRRJ
 
 
